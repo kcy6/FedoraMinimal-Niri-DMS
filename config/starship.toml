@@ -1,0 +1,8 @@
+[shell]
+disabled = false
+bash_indicator = "bash"
+zsh_indicator = "zsh"
+fish_indicator = "fish"
+unknown_indicator = "shell"
+style = "bold #b4befe"
+format = "[$indicator]($style) "
